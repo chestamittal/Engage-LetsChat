@@ -1,11 +1,11 @@
 # Microsoft Engage 2021
 
-### Teams Clone: LetsChat
+## Teams Clone: LetsChat
 
 A webapp for video conferencing using WebRTC, Socket.io and NodeJS.
 It has been deployed on http://letschat-engage.herokuapp.com/ 
 
-#### Design Documentation
+### Design Documentation
 
 https://github.com/chestamittal/Engage-LetsChat/blob/master/documentation.md
 
@@ -42,25 +42,25 @@ node app.js
 - Expand participants' stream
 - Pause participants' video
 
-## Screenshots
+# Screenshots
 
-#### Landing Page, Authentication and Homescreen
+## Landing Page, Authentication and Homescreen
 
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/LandingPage.png)
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/Authentication.png)
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/HomePage.png)
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/LandingPage.png"/>
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/Authentication.png"/>
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/HomePage.png"/>
 
-### Features
+## Features
 
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/ScreenShare.png)
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/RemoteVideoControls.png)
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/InvitePeople.png)
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/ScreenShare.png"/>
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/RemoteVideoControls.png"/>
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/InvitePeople.png"/>
 
-### 1:1 and Multiuser
+## 1:1 and Multiuser
 
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/1on1.png)
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/MultiUser.png)
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/1on1.png"/>
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/MultiUser.png"/>
 
-### Ending Page
+## Ending Page
 
-![alt text](https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/EndedPage.png)
+<img height = 300 src="https://github.com/chestamittal/Engage-LetsChat/blob/master/screenshots/EndedPage.png"/>
