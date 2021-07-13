@@ -70,8 +70,8 @@ We were given a timeline of four weeks which I divided into four sprints and man
 1. As the users open the web page, they are displayed a simple landing page, which has a button to redirect them to the google authentication, which is a must to use the app.
 2. If authentication fails, the user is displayed an error screen which asks them to try again.
 3. After successful authentication, users are directed to home screen which has two options:
-    -The user can either create a new room, or
-    -The user can enter the room Id and enter an existing room
+    - The user can either create a new room, or
+    - The user can enter the room Id and enter an existing room
     Both of these direct the user to the Video Conferencing room.
 4. The Video Chat displays the user's local video at the bottom left corner, has a bar at the top which has 6 buttons which are for video on/off, audio on/off, screen share, invite user(either by email or by copying room id), chat panel and leave room, respectively.
 5. When the chat button is clicked, the chat panel appears on the right side of the screen wherein participants can live chat with each other.
